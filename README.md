@@ -29,4 +29,4 @@ Serve this folder with any static web server and open `index.html`. No build ste
 
 ## Publication status
 
-Prepared for publication as a standalone GitHub Pages repository. Publication details are recorded only after live verification.
+Published from the `main` branch at https://stevencowell.github.io/year-9-10-timber/ and verified after deployment on 1 August 2026.
