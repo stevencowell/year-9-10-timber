@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Year 9 Industrial Technology – Timber Final Digital Examination">
+  <title>Year 9 Industrial Technology – Timber | Final Digital Examination</title>
+  <link rel="stylesheet" href="exam.css">
+</head>
+<body>
+  <div class="password-gate" id="passwordGate">
+    <form class="gate-card" id="gateForm">
+      <p class="exam-kicker" style="color:var(--brand)">Teacher-controlled access</p>
+      <h1>Unlock exam</h1>
+      <p>Enter the password supplied by your teacher. Your answers will save only in this browser on this device.</p>
+      <label for="gatePassword"><strong>Exam password</strong></label>
+      <input id="gatePassword" type="password" inputmode="numeric" autocomplete="off" required>
+      <button class="btn" type="submit">Open exam</button>
+      <p class="gate-error" id="gateError" role="alert"></p>
+    </form>
+  </div>
+  <div id="examPage" hidden>
+    <header class="exam-header">
+      <div class="exam-shell">
+        <p><a id="backLink" href="../index.html">Back to course home</a></p>
+        <p class="exam-kicker" id="courseName"></p>
+        <h1 id="examTitle"></h1>
+        <p id="examSubtitle"></p>
+      </div>
+    </header>
+    <main class="exam-main">
+      <div class="exam-shell">
+        <section class="exam-card">
+          <h2>Exam information</h2>
+          <div class="notice-grid">
+            <div class="notice-item"><span>Course stage</span><strong id="metaStage"></strong></div>
+            <div class="notice-item"><span>Recommended time</span><strong id="metaTime"></strong></div>
+            <div class="notice-item"><span>Total marks</span><strong id="metaMarks"></strong></div>
+            <div class="notice-item"><span>Assessment status</span><strong id="metaStatus"></strong></div>
+            <div class="notice-item"><span>Task</span><strong id="metaTask"></strong></div>
+            <div class="notice-item"><span>Scheduled date</span><strong id="metaDate"></strong></div>
+            <div class="notice-item notice-wide"><span>Assessed outcomes</span><strong id="metaOutcomes"></strong></div>
+          </div>
+          <p class="exam-note" id="examDirections"></p>
+          <p><strong>PDF submission:</strong> When finished, use <em>Print / Save PDF</em>, choose <em>Save as PDF</em>, and name the file <strong id="pdfFilename"></strong>. Check the saved PDF before turning it in.</p>
+        </section>
+        <form id="examForm" novalidate>
+          <section class="exam-card">
+            <h2>Student details</h2>
+            <div class="student-grid">
+              <label>Student name<input data-student id="studentName" name="studentName" autocomplete="name"></label>
+              <label>Class<input data-student name="studentClass" autocomplete="off"></label>
+              <label>Teacher<input data-student name="teacherName" autocomplete="off"></label>
+              <label>Date completed<input data-student name="completedDate" type="date"></label>
+            </div>
+          </section>
+          <div class="exam-toolbar screen-only">
+            <div class="exam-progress">
+              <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+              <span class="progress-label" id="progressLabel"></span>
+            </div>
+            <button class="btn secondary" id="saveBtn" type="button">Save now</button>
+            <button class="btn" id="printBtn" type="button">Print / Save PDF</button>
+            <button class="btn secondary" id="lockBtn" type="button">Lock exam</button>
+            <button class="btn danger" id="clearBtn" type="button">Clear saved work</button>
+            <div class="save-status" id="saveStatus">Answers autosave on this device.</div>
+          </div>
+          <div id="examSections"></div>
+        </form>
+        <p class="exam-footer">This page stores work locally in this browser and device. Saving a PDF is the submission copy; local autosave is not a cloud submission.</p>
+      </div>
+    </main>
+  </div>
+  <script>window.EXAM_CONFIG = {"id":"wwhs-y9-timber-eoy-2026","course":"Year 9 Industrial Technology – Timber","title":"Final Digital Examination","subtitle":"Breadboard, clock, pen and tool carry-all contexts · theory and application","stage":"Stage 5 · Year 9","time":"60 minutes","status":"2026 handbook: Final Examination · Term 4 Week 5 · 20%","backLabel":"Year 9–10 Timber","pdfFilename":"Surname_Firstname_Year9_Timber_Final_Exam.pdf","directions":"Answer every question. Select one answer for each multiple-choice item and type concise, justified responses. Use examples from the projects studied. No sketches are required.","sections":[{"label":"Section A","title":"Knowledge and understanding","instructions":"Select the best answer.","questions":[{"kind":"choice","marks":1,"prompt":"What is the best reason for using a try square from a prepared face edge?","options":["To test timber moisture content","To mark a line square to a reliable reference","To select a finish","To cut a widening joint"]},{"kind":"choice","marks":1,"prompt":"When cutting to a marked length, why is the waste side identified?","options":["To remove the need for planing","To reverse the grain direction","To increase moisture content","To retain the required finished dimension"]},{"kind":"choice","marks":1,"prompt":"What is the main purpose of a biscuit joint in a breadboard context?","options":["Aligning and joining boards or components","Cutting a decorative profile","Measuring timber thickness","Applying an oil finish"]},{"kind":"choice","marks":1,"prompt":"Why is grain direction checked before planing?","options":["It changes hardwood into softwood","It determines the oil colour","Working with the grain can reduce tear-out","It replaces a sharp blade"]},{"kind":"choice","marks":1,"prompt":"Which statement best describes timber seasoning?","options":["Applying a clear finish","Controlled reduction of moisture content before use","Converting a log into boards only","Joining boards with adhesive"]},{"kind":"choice","marks":1,"prompt":"Why are rebates used in a small cabinet or clock project?","options":["To measure a curve","To identify sapwood","To remove all need for fasteners","To form a step or recess that locates another component"]},{"kind":"choice","marks":1,"prompt":"What should be checked during a dry clamp before gluing?","options":["Fit, squareness, alignment and clamping access","Only the colour of the timber","Whether the finish has cured","The cost of the laser cutter"]},{"kind":"choice","marks":1,"prompt":"Which joint is associated with the Year 9 tool carry-all program?","options":["Lap weld","Brazed butt joint","Dovetail or box-pin joint","Soldered tee joint"]},{"kind":"choice","marks":1,"prompt":"Why is abrasive work completed through an appropriate grit sequence?","options":["To increase timber moisture","To remove earlier scratches and prepare a consistent surface","To replace accurate machining","To make adhesive cure instantly"]},{"kind":"choice","marks":1,"prompt":"What is a key environmental advantage of responsibly managed plantation timber?","options":["It never requires processing energy","It cannot produce waste","It is always stronger than every native timber","It is a renewable resource when forests are replanted and managed"]},{"kind":"choice","marks":1,"prompt":"Why is a SWMS or risk-planning document useful?","options":["It links task steps, hazards and controls before work proceeds","It replaces teacher demonstrations","It guarantees no incident can occur","It records only the finish colour"]},{"kind":"choice","marks":1,"prompt":"Which evaluation is strongest?","options":["The clock was good","I enjoyed the project","The drawer bound on the left during testing, so I would check squareness during dry clamping next time","The timber looked nice"]}]},{"label":"Section B","title":"Short responses","instructions":"Use appropriate timber and workshop terminology.","questions":[{"kind":"short","marks":3,"prompt":"Explain how face-side and face-edge marks help maintain accuracy while dressing and marking timber."},{"kind":"short","marks":3,"prompt":"Compare air seasoning and kiln seasoning using time, control and likely production context."},{"kind":"short","marks":3,"prompt":"Explain why boards should be arranged for grain direction and appearance before a widening joint is glued."},{"kind":"short","marks":3,"prompt":"Describe three checks required before using a router or other permission-based machine process."},{"kind":"short","marks":3,"prompt":"Explain how a dry clamp can prevent faults in a clock, breadboard or carry-all assembly."},{"kind":"short","marks":3,"prompt":"Explain how a folio caption can demonstrate safe process knowledge and quality control."}]},{"label":"Section C","title":"Extended application","instructions":"Use evidence and project examples in each response.","questions":[{"kind":"long","marks":10,"prompt":"A carry-all assembly is out of square and one joint has visible gaps. Analyse possible causes from timber preparation, marking out, joint cutting, dry clamping and glue-up. Recommend a practical improvement at each stage."},{"kind":"long","marks":10,"prompt":"Evaluate the use of a laser cutter or CNC process alongside hand skills in a Year 9 timber project. Consider design flexibility, accuracy, repeatability, setup, safety controls, skill development, waste and the value of a one-off student product."}]}]};</script>
+  <script>Object.assign(window.EXAM_CONFIG, {"taskLabel":"Task 3 – Final Examination","scheduledDate":"Teacher to confirm (handbook specifies Term 4 Week 5)","outcomes":"IND5-1 to IND5-10","status":"Formal scheduled assessment · 2026 handbook · Term 4 Week 5 · 20%"});</script>
+  <script src="exam.js"></script>
+</body>
+</html>
