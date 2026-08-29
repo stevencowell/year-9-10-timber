@@ -2,6 +2,8 @@
 
 Status: approved for implementation by Steve on 1 August 2026.
 
+> **Legacy 2026 remediation record:** This plan documents the previous NSW Industrial Technology syllabus and its `IND5-*` outcome audit. It is retained as historical 2026 evidence only. Current Stage 5 alignment uses the Industrial Technology 7-10 Syllabus (2025) and its `INT5-*` outcomes.
+
 ## Purpose
 
 Bring the shared Timber hub, its curriculum evidence maps and the seven linked project sites into a defensible, maintainable state. The work must distinguish published webpage evidence, teacher-observed workshop evidence and formal program coverage.
@@ -17,13 +19,13 @@ No project dimensions, assessment dates, weightings, local procedures or syllabu
 
 ## Repair decisions
 
-### 1. Correct the current audit
+### 1. Correct the legacy 2026 audit
 
 - Retain `I = introduced`, `P = practised and developed`, and `E = evidenced or assessed`.
 - Use Australian English. `Practised` is the correct verb; `practice` remains the correct noun.
-- Correct Clock IND5-9 to reflect its live Weeks 15-16 technology comparison and saved written response.
+- Correct the legacy Clock IND5-9 record to reflect its live Weeks 15-16 technology comparison and saved written response.
 - Distinguish webpage-captured evidence from teacher observation. A practical collaboration outcome is not automatically a website gap when it is intentionally verified by the teacher.
-- Recheck every current-outcome reference after the source-site repairs.
+- Recheck every legacy-outcome reference after the source-site repairs.
 
 ### 2. Repair live-site anomalies
 

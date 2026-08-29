@@ -9,7 +9,8 @@ Serve this folder with any static web server and open `index.html`. No build ste
 ## Content authority
 
 - `resources/current-stage-5-timber-program.docx` is a local copy of `stage_5_timber_2021-06-16.docx`.
-- `resources/future-stage-5-timber-program-2027.docx` is a local copy of `2025 Timber program new syllabus.docx` and is labelled as future/2027 material.
+- `resources/future-stage-5-timber-program-2027.docx` is a local copy of `2025 Timber program new syllabus.docx` and is labelled as a 2027 early-implementation planning source.
+- `syllabus-coverage.html` and `resources/Stage-5-Timber-200-Hour-Family-Coverage-Record-v2.0.*` provide the complete English-first family map for all 82 required content statements and nine Stage 5 outcomes in the Industrial Technology 7-10 Syllabus (2025). The syllabus is available for school-selected early implementation in 2027 and becomes mandatory in 2028.
 - `resources/small-box-new-syllabus-program.docx` is a new local six-week program addition. Small Box is not named in the supplied future master program.
 - `resources/folding-chair-new-syllabus-program.docx` is a new local twenty-week provisional program. Folding Chair is not named in the supplied future master program.
 - `Timber Course Alignment Audit.xlsx` maps the current program using I/P/E evidence codes.

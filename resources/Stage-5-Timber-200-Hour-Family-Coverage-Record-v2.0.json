@@ -1,0 +1,2194 @@
+{
+  "record_version": "2.0",
+  "record_type": "200-hour-family-syllabus-coverage",
+  "course": "Stage 5 Industrial Technology - Timber industry",
+  "delivery_year": 2027,
+  "implementation": {
+    "syllabus": "Industrial Technology 7-10 Syllabus (2025)",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "mandatory_from": 2028,
+    "verified_date": "2026-08-29"
+  },
+  "course_requirements": {
+    "all_outcomes_programmed": true,
+    "minimum_projects_with_documentation": 4,
+    "all_project_development_and_timber_content_allocated": true,
+    "collaborative_activity": "teacher-to-confirm",
+    "required_content_statement_count": 82,
+    "already_explicit_in_supplied_master_count": 28,
+    "added_to_v2_family_coverage_count": 54
+  },
+  "authority_boundary": "The supplied master remains the timing source. This v2 record explicitly allocates required content; local activities, practical authority, cultural sources, collaboration and assessment remain teacher controlled.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Industrial Technology 7-10 Syllabus (2025) course overview",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/overview/course",
+      "use": "Course requirements and implementation"
+    },
+    {
+      "id": "S2",
+      "title": "Official Stage 5 outcomes",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes",
+      "use": "Exact outcomes"
+    },
+    {
+      "id": "S3",
+      "title": "Timber industry: Project development",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+      "use": "25 required content statements"
+    },
+    {
+      "id": "S4",
+      "title": "Timber industry specialisation",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+      "use": "57 required content statements"
+    },
+    {
+      "id": "S5",
+      "title": "Related materials, resources, tools, equipment and techniques",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa4b6cc66f",
+      "use": "Selection guidance, not a separate required-content checklist"
+    },
+    {
+      "id": "L1",
+      "title": "Supplied future Stage 5 Timber master program",
+      "location": "resources/future-stage-5-timber-program-2027.docx",
+      "use": "Project timing and 28 explicitly programmed official statements"
+    }
+  ],
+  "outcomes": [
+    {
+      "code": "INT5-SAF-01",
+      "statement": "applies risk management and safe work practices in industrial technology contexts",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-COM-01",
+      "statement": "communicates ideas and processes in industrial technology contexts",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-ENV-01",
+      "statement": "assesses the impact of industrial activities and practices on society and the environment",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-DES-01",
+      "statement": "selects and applies design, project management and technical skills in project production",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-USE-01",
+      "statement": "selects and justifies the use of materials, tools and equipment to undertake projects",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-EVL-01",
+      "statement": "evaluates the functional, aesthetic, economic and environmental qualities of products",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-INP-01",
+      "statement": "analyses and applies a range of industrial processes in production contexts",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-PRO-01",
+      "statement": "demonstrates practical skills in the production of projects",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-IND-01",
+      "statement": "investigates and explains a range of industry careers, enterprise opportunities and practices",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Confirm final master sequence, period distribution and named learning activity for each v2 allocation.",
+      "owner": "Program coordinator",
+      "due_before": "Before 2027 delivery"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Confirm current plan, induction, SOP/SDS, materials, equipment, PPE, supervision and risk controls.",
+      "owner": "Teacher / faculty",
+      "due_before": "Before each practical"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Approve at least one genuine collaborative activity and individual contribution evidence.",
+      "owner": "Program coordinator",
+      "due_before": "Before collaborative delivery"
+    },
+    {
+      "id": "TTC-04",
+      "item": "Confirm culturally safe, local and appropriately authorised sources and protocols.",
+      "owner": "Teacher / school",
+      "due_before": "Before teaching relevant content"
+    },
+    {
+      "id": "TTC-05",
+      "item": "Confirm assessment authority, outcomes, marks, dates, conditions, adjustments and submission route.",
+      "owner": "Teacher / faculty",
+      "due_before": "Before formal assessment use"
+    }
+  ],
+  "coverage_records": [
+    {
+      "number": 1,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Work health and safety and risk management",
+      "content_item_id": "ci2d7315ef",
+      "content_statement": "Identify the role of SafeWork NSW, regulations, standards and codes of practice in maintaining a safe workplace",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W10; Clock W10; Tool Carry-all W10; Mirror W10; Mirror W14; Mirror W20; Bedside Table W1; Bedside Table W14; Bedside Table W20",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks1-2/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 2,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Work health and safety and risk management",
+      "content_item_id": "ci6986b695",
+      "content_statement": "Recognise and comply with work health and safety (WHS) documentation and signage , and follow WHS rules when designing or producing",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W1; Breadboard W8; Clock W11; Tool Carry-all W7; Tool Carry-all W8; Tool Carry-all W12; Mirror W1; Mirror W8; Mirror W15; Bedside Table W1; Bedside Table W8; Bedside Table W15",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks1-2/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 3,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Work health and safety and risk management",
+      "content_item_id": "ci691cf158",
+      "content_statement": "Outline the principles of risk management and implement risk-reduction procedures",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W2; Breadboard W6; Breadboard W8; Clock W11; Tool Carry-all W12; Mirror W1; Mirror W7; Mirror W8; Mirror W14; Mirror W15; Bedside Table W1; Bedside Table W4; Bedside Table W5; Bedside Table W6; Bedside Table W7; Bedside Table W8; Bedside Table W15",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks1-2/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 4,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Work health and safety and risk management",
+      "content_item_id": "ci2205366d",
+      "content_statement": "Describe first aid procedures and outline the procedure to follow after particular incidents",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Breadboard"
+      ],
+      "primary_route": "https://stevencowell.github.io/bread-board-guided-course/modules/module-01.html",
+      "primary_outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 5,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "cida0e4599",
+      "content_statement": "Outline the importance of Indigenous Cultural and Intellectual Property (ICIP) of Aboriginal and/or Torres Strait Islander Peoples and how it is related to relevant projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Use a culturally safe, teacher-approved source; check the student's sourced explanation and project connection.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ]
+    },
+    {
+      "number": 6,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "cib7f96962",
+      "content_statement": "Investigate materials, technologies, sustainable development and Practices used to inform design solutions by Aboriginal and/or Torres Strait Islander Peoples",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W7; Clock W6; Clock W12; Tool Carry-all W13; Mirror W9; Mirror W11; Mirror W12; Mirror W13; Mirror W16; Bedside Table W16",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Use a culturally safe, teacher-approved source; check the student's sourced explanation and project connection.",
+      "teacher_to_confirm_ids": [
+        "TTC-04"
+      ]
+    },
+    {
+      "number": 7,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "ci81dc1f7b",
+      "content_statement": "Identify and investigate factors influencing design in projects to develop specifications",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 8,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "ciaf8f2893",
+      "content_statement": "Use Australian regulations, standards and codes of practice when designing and producing",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 9,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "ci694804a1",
+      "content_statement": "Use, modify and create designs to complete projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 10,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "ciba184f00",
+      "content_statement": "Identify sustainable materials, technologies and practices when designing projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W12; Tool Carry-all W13; Mirror W13; Mirror W16; Bedside Table W16",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 11,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "cid3d35a80",
+      "content_statement": "Test and evaluate the suitability of materials and the effectiveness of tools, equipment and processes",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 12,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project design",
+      "content_item_id": "ci9c11df86",
+      "content_statement": "Evaluate the effectiveness of design on the quality, function and aesthetics of finished products",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W9; Breadboard W10; Clock W13; Clock W14; Clock W15; Tool Carry-all W14; Tool Carry-all W15; Mirror W17; Mirror W18; Mirror W20; Bedside Table W17; Bedside Table W18; Bedside Table W20",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 13,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project management",
+      "content_item_id": "cid92b04d4",
+      "content_statement": "Select and document materials, equipment and processes used to make components or projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-INP-01",
+        "INT5-PRO-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 14,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project management",
+      "content_item_id": "ci48ca2eb7",
+      "content_statement": "Prepare materials lists and calculate quantities and costs when making projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Bedside Table W13",
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-INP-01",
+        "INT5-PRO-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 15,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project management",
+      "content_item_id": "cid9938930",
+      "content_statement": "Apply project management strategies when developing projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-INP-01",
+        "INT5-PRO-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 16,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project management",
+      "content_item_id": "cidd17db69",
+      "content_statement": "Propose, apply and evaluate plans for production, using project management tasks and tools",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W3; Clock W8; Tool Carry-all W7; Tool Carry-all W8; Bedside Table W7; Bedside Table W9; Bedside Table W10; Bedside Table W11; Bedside Table W12; Bedside Table W13",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-INP-01",
+        "INT5-PRO-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 17,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project management",
+      "content_item_id": "cid3feee37",
+      "content_statement": "Outline and apply a quality management system to support production processes including testing, quality assurance and quality control",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Pen W2; Tool Carry-all W11; Mirror W19; Bedside Table W19",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Timber Pen",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-INP-01",
+        "INT5-PRO-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 18,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project management",
+      "content_item_id": "cic85673d8",
+      "content_statement": "Identify and allocate roles for collaborative production processes",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Pen W2; Tool Carry-all W11; Mirror W19; Bedside Table W19",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Timber Pen",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks15-16/",
+      "primary_outcome_codes": [
+        "INT5-DES-01",
+        "INT5-INP-01",
+        "INT5-PRO-01",
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Approve one genuine collaborative activity; record roles, contribution, handover and teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-03"
+      ]
+    },
+    {
+      "number": 19,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "ci294d2223",
+      "content_statement": "Use subject-specific terminology to communicate industrial technology concepts",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 20,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "cifc92fa39",
+      "content_statement": "Discuss the importance of graphical literacy for communication across industries",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 21,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "ci2552054e",
+      "content_statement": "Apply a range of graphical communication techniques including freehand sketching, diagrams, graphs, charts or computer-aided design (CAD) software during project development",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W4; Breadboard W5; Breadboard W7; Clock W3; Tool Carry-all W2; Tool Carry-all W7; Tool Carry-all W8; Mirror W1; Mirror W2; Mirror W9; Mirror W10; Bedside Table W2; Bedside Table W7; Bedside Table W9; Bedside Table W10",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 22,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "cic3b134ea",
+      "content_statement": "Use digital technologies to develop and communicate ideas",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Tool Carry-all W2",
+      "anchor_projects": [
+        "Tool Carry-all"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 23,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "ci340ed442",
+      "content_statement": "Create written texts to document, reflect on and evaluate project development, production and management processes",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W9; Clock W13; Clock W14; Pen W2; Tool Carry-all W11; Tool Carry-all W14; Mirror W17; Mirror W18; Mirror W19; Bedside Table W17; Bedside Table W18; Bedside Table W19",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Timber Pen",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks11-12/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 24,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "ci8af306b1",
+      "content_statement": "Demonstrate digital literacy and information management skills when working with digital systems and in online environments",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W10",
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks15-16/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named design, planning, costing, communication or evaluation evidence in the project folio.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 25,
+      "focus_area": "Timber industry: Project development",
+      "focus_id": "fa71df8ecb",
+      "group": "Project communication",
+      "content_item_id": "cif48c6f08",
+      "content_statement": "Develop and apply safe data management practices when collecting and storing data",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 26,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci2988070d",
+      "content_statement": "Investigate the sources, harvesting, conversion methods and seasoning of timbers used in timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 27,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci6c9ee54a",
+      "content_statement": "Explain the role of Country in the provision and management of timber materials for production",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Use a culturally safe, teacher-approved source; check the student's sourced explanation and project connection.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ]
+    },
+    {
+      "number": 28,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci6b1eccd7",
+      "content_statement": "Discuss ethical responsibilities when sourcing materials for timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 29,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci37fec2d6",
+      "content_statement": "Investigate sustainable practices in the timber industry",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 30,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "cib2bacdb6",
+      "content_statement": "Investigate old-growth timber and the implication of its use in timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 31,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci34a55ed7",
+      "content_statement": "Explain the environmental and societal impact of resources used in the development and production of timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 32,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci6ed62ed8",
+      "content_statement": "Identify the types of timber stock, including rough sawn and dressed timber, veneers and manufactured boards, and their uses",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 33,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci99279ce8",
+      "content_statement": "Investigate the production, use and environmental impact of manufactured boards including blockboard, chipboard, hardboard, medium-density fibreboard (MDF) and plywood",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 34,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "cib981ded1",
+      "content_statement": "Investigate how recycled or repurposed materials are used in a timber-based project",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 35,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "cicd44c99d",
+      "content_statement": "Compare properties and characteristics of hardwoods and softwoods, including grain, weight, density and texture, to justify their selection for specific timber components or projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W3; Clock W6; Clock W9; Mirror W4; Mirror W7; Mirror W9; Mirror W10; Mirror W11; Mirror W12; Bedside Table W9; Bedside Table W10",
+      "anchor_projects": [
+        "Bedside Table",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 36,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ciaf520619",
+      "content_statement": "Identify secondary materials that could be part of a timber-based project, including metals, ceramics, polymers and upholstery",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 37,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "ci86336ae0",
+      "content_statement": "Identify a range of hardware components and their function for application in timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 38,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "cif228feac",
+      "content_statement": "Compare the properties of different glues and adhesives, including strength, gap-filling properties, working time and shelf life, and explain the advantages and disadvantages of each when assembling timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 39,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Materials and resources",
+      "content_item_id": "cib9ea9946",
+      "content_statement": "Explain the advantages and disadvantages of a range of finishes to enhance a completed timber project",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-USE-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a justified material/resource decision supported by the project and a saved written response.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 40,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Tools and equipment",
+      "content_item_id": "ci3be641ad",
+      "content_statement": "Investigate tools used by Aboriginal and/or Torres Strait Islander Peoples to manipulate timber",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Use a culturally safe, teacher-approved source; check the student's sourced explanation and project connection.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02",
+        "TTC-04"
+      ]
+    },
+    {
+      "number": 41,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Tools and equipment",
+      "content_item_id": "cifb243827",
+      "content_statement": "Identify a range of marking-out, cutting, shaping, forming, machining, detailing, finishing and assembly tools used to make components or projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W1; Clock W2; Clock W5; Pen W1; Tool Carry-all W9; Mirror W3; Bedside Table W3",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Clock",
+        "Timber Pen",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 42,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Tools and equipment",
+      "content_item_id": "cib90041fd",
+      "content_statement": "Perform safe set-up of tools and equipment, relevant to the project, including inspecting and adjusting guards before use, following standard operating procedures (SOPs) and safety data sheets (SDSs), calculating speed and feed rates for machine processes, securing work pieces, ensuring battery and cable care, or using dust control measures",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W1; Breadboard W2; Breadboard W6; Clock W11; Tool Carry-all W12; Mirror W15; Bedside Table W15",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 43,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Tools and equipment",
+      "content_item_id": "cid23af694",
+      "content_statement": "Maintain hand tools and equipment, including cleaning, lubricating or replacing consumables, such as blades, bits and abrasives",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W10",
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks5-6/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 44,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Tools and equipment",
+      "content_item_id": "ci17e716c2",
+      "content_statement": "Create written texts to explain the practical applications and safety requirements of a range of tools and equipment",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W3; Breadboard W4; Clock W1; Clock W2; Clock W5; Clock W7; Clock W8; Clock W15; Pen W1; Tool Carry-all W1; Tool Carry-all W3; Tool Carry-all W9; Tool Carry-all W15; Mirror W2; Bedside Table W2",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Timber Pen",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-SAF-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 45,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cied86a9d2",
+      "content_statement": "Demonstrate safe workshop practices and procedures when using materials, tools and equipment in timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 46,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci416664f0",
+      "content_statement": "Select and use personal protective equipment (PPE) when working with tools, materials and machines",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 47,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci5306a8bc",
+      "content_statement": "Apply ethical protocols when making timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 48,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci170486b6",
+      "content_statement": "Select and use appropriate timbers for the construction of timber products",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 49,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci7f898cb7",
+      "content_statement": "Apply quality checks to assess timbers and components for defects before, during and after production",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 50,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cia5a4382a",
+      "content_statement": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 51,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cia002a00d",
+      "content_statement": "Prepare timber using appropriate hand tools and machines",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 52,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci2e1be3ac",
+      "content_statement": "Use drawings, jigs or templates, relevant to the project, in the manufacture of components and assemblies",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 53,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci04752053",
+      "content_statement": "Use appropriate hand tools, portable power tools or machines when cutting, shaping, forming, machining or detailing to make timber products",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W1; Breadboard W2; Breadboard W3; Breadboard W4; Breadboard W5; Breadboard W6; Breadboard W10; Clock W1; Clock W2; Clock W4; Clock W5; Clock W7; Clock W8; Clock W15; Pen W1; Tool Carry-all W1; Tool Carry-all W3; Tool Carry-all W5; Tool Carry-all W6; Tool Carry-all W9; Tool Carry-all W10; Tool Carry-all W15; Mirror W2; Mirror W3; Mirror W7; Mirror W20; Bedside Table W2; Bedside Table W3; Bedside Table W4; Bedside Table W5; Bedside Table W6; Bedside Table W20",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Timber Pen",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 54,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cic65ff769",
+      "content_statement": "Investigate advanced manufacturing techniques to assist in the production of projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks5-6/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 55,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci2a9359f9",
+      "content_statement": "Use digital design tools to develop timber projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Tool Carry-all W2",
+      "anchor_projects": [
+        "Tool Carry-all"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 56,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cic4f481e4",
+      "content_statement": "Compare the machining properties of solid timbers and manufactured boards",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 57,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cic5d8c501",
+      "content_statement": "Prepare timber and set up timber lathe for wood-turning processes, such as between centres, chuck turning and faceplate turning",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Timber Pen"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Pen/weeks1-2/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 58,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci29c8040c",
+      "content_statement": "Apply safe practices when wood-turning, including checking timber for cracks and defects, checking laminated stock, checking workpiece mounting and clearance, removing tool rest when sanding",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Timber Pen"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Pen/weeks1-2/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Check the named risk/SOP response and record teacher observation before authorised practical work.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 59,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cia877e418",
+      "content_statement": "Use appropriate tools and processes to turn timbers, such as cutting, scraping and sanding",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Timber Pen"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Pen/weeks1-2/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 60,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cic74237be",
+      "content_statement": "Apply appropriate board-widening techniques, such as butt, dowelled butt joint, tongue and groove, groove and feather, or biscuit joint",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 61,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cib02eaf95",
+      "content_statement": "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W3; Breadboard W5; Clock W4; Clock W7; Clock W9; Tool Carry-all W1; Tool Carry-all W3; Tool Carry-all W4; Tool Carry-all W5; Tool Carry-all W6; Tool Carry-all W10; Mirror W4; Mirror W5; Mirror W6; Mirror W8; Mirror W11; Mirror W12; Bedside Table W4; Bedside Table W5; Bedside Table W6; Bedside Table W8; Bedside Table W11; Bedside Table W12",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 62,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci348b0f4a",
+      "content_statement": "Select and use a range of glues or adhesives to assemble parts and components in timber projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Mirror W5; Mirror W6",
+      "anchor_projects": [
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 63,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cicc0f6cc7",
+      "content_statement": "Assemble parts and components using fixings, adhesives or clamps to make timber products",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W9; Tool Carry-all W4; Mirror W4; Mirror W5; Mirror W6; Bedside Table W11; Bedside Table W12",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 64,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cia3f857f2",
+      "content_statement": "Apply skills and processes to make quality projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 65,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci3458d785",
+      "content_statement": "Use techniques to ensure the precision and quality of components",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks7-8/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 66,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cie2c359f7",
+      "content_statement": "Use traditional and digital technologies to create components and detail surfaces for timber products",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 67,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cic16b2657",
+      "content_statement": "Outline the processes to apply appropriate finishes",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 68,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci2bb3bad7",
+      "content_statement": "Prepare working environments for the production, finishing and assembly of timber products",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 69,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cifde9da9b",
+      "content_statement": "Compare processes, techniques and equipment used in industry to those found in the classroom",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 70,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "cifebaa3d8",
+      "content_statement": "Investigate the characteristics, properties, methods of cutting and uses of veneers in timber projects",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W6",
+      "anchor_projects": [
+        "Clock"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 71,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci9889786f",
+      "content_statement": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W7; Breadboard W8; Clock W12; Clock W13; Tool Carry-all W13; Tool Carry-all W14; Mirror W3; Mirror W13; Mirror W16; Bedside Table W3; Bedside Table W13; Bedside Table W14; Bedside Table W16",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks17-18/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 72,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci308c5182",
+      "content_statement": "Apply a range of appropriate finishing techniques to enhance or protect a completed timber product",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Mirror",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 73,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci1ab2c8bf",
+      "content_statement": "Use collaborative production processes to make components for timber projects",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks15-16/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01",
+        "INT5-COM-01"
+      ],
+      "evidence_to_check": "Approve one genuine collaborative activity; record roles, contribution, handover and teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02",
+        "TTC-03"
+      ]
+    },
+    {
+      "number": 74,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Processes, techniques and applications",
+      "content_item_id": "ci4fa1d3b5",
+      "content_statement": "Evaluate the impact of manufacturing processes on the quality of finished timber products",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Breadboard W9; Clock W14; Mirror W17; Mirror W18; Bedside Table W17; Bedside Table W18",
+      "anchor_projects": [
+        "Bedside Table",
+        "Breadboard",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/bedside-table-guided-course/weeks15-16/",
+      "primary_outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "evidence_to_check": "Confirm the current plan and safe method; check the named response, project evidence or teacher observation.",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ]
+    },
+    {
+      "number": 75,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "cia72e7419",
+      "content_statement": "Investigate and apply work and enterprise skills required in the timber industry",
+      "program_state": "already-explicit-in-supplied-master",
+      "program_state_label": "Already explicit in supplied 2027 master",
+      "supplied_master_occurrence": "Clock W4; Tool Carry-all W4; Tool Carry-all W5; Tool Carry-all W6; Mirror W14; Bedside Table W14",
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table",
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 76,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "ci3bb2b84f",
+      "content_statement": "Identify ethical, cultural and sustainability practices used in the timber industry",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Use a culturally safe, teacher-approved source; check the student's sourced explanation and project connection.",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ]
+    },
+    {
+      "number": 77,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "ci58ab76e5",
+      "content_statement": "Investigate issues relating to the sustainability of resources in the timber industry",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 78,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "ci45418402",
+      "content_statement": "Describe new and emerging technologies and their influence on the timber industry",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks15-16/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 79,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "ci46943a79",
+      "content_statement": "Describe the effects of the timber industry on society and the environment",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 80,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "cib2b5b008",
+      "content_statement": "Discuss how timber industry practices evolve in response to changes in technology, society and the environment",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 81,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "ci731b48e1",
+      "content_statement": "Explore trade and career opportunities across the timber industry",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Tool Carry-all",
+        "Bedside Table"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Carry-All/weeks3-4/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 82,
+      "focus_area": "Timber industry specialisation",
+      "focus_id": "fa0e95d80e",
+      "group": "Timber industry in context",
+      "content_item_id": "ci35f2fc26",
+      "content_statement": "Evaluate the impact of new and emerging technologies on careers and professions in the timber industry",
+      "program_state": "added-to-v2-family-coverage",
+      "program_state_label": "Added to v2 family coverage",
+      "supplied_master_occurrence": null,
+      "anchor_projects": [
+        "Clock",
+        "Mirror"
+      ],
+      "primary_route": "https://stevencowell.github.io/Yr-9-Clock/weeks15-16/",
+      "primary_outcome_codes": [
+        "INT5-IND-01",
+        "INT5-ENV-01"
+      ],
+      "evidence_to_check": "Check a sourced industry, enterprise or career investigation linked to the active project.",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/Stage-5-Timber-200-Hour-Family-Coverage-Record-v2.0.docx",
+      "purpose": "editable-family-coverage",
+      "sha256": "4B9290BCCDB25E2DBA256CDB986ED98FF6AA4C56483C317904611718D4E7BD5E"
+    },
+    {
+      "path": "resources/Stage-5-Timber-200-Hour-Family-Coverage-Record-v2.0.pdf",
+      "purpose": "rendered-family-coverage",
+      "sha256": "C02D070BDCB880A7BEF3DA4D1C6BA63DD19A2EAE955FAFC9A016C97DC21C96E8"
+    },
+    {
+      "path": "resources/Stage-5-Timber-200-Hour-Family-Coverage-Record-v2.0.json",
+      "purpose": "machine-readable-family-coverage"
+    },
+    {
+      "path": "syllabus-coverage.html",
+      "purpose": "public-readable-family-coverage"
+    }
+  ]
+}
